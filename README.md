@@ -89,16 +89,17 @@ Add screenshots of your application here.
 
 ## Screenshot 1 – Login Screen
 
+![Login Screen](assets/login.png)
 
 ## Screenshot 2 – Dashboard
 
-*(Insert Screenshot Here)*
+![Dashboard](assets/dashboard.png)
 
 ---
 
 ## Screenshot 3 – AI Health Assistant
 
-*(Insert Screenshot Here)*
+![AI Assistant](assets/AI.png)
 
 ---
 
