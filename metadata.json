@@ -1,0 +1,6 @@
+{
+  "name": "MediCare AI",
+  "description": "An AI-powered medicine manager and healthcare companion with personalized schedules and intelligent medicine assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
