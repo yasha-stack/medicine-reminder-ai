@@ -85,7 +85,7 @@ The AI assistant is instructed to:
 
 # 📷 Screenshots
 
-Add screenshots of your application here.
+
 
 ## Screenshot 1 – Login Screen
 
