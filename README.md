@@ -12,7 +12,7 @@ The app solves the common problem of **forgetting to take medicines on time**, r
 
 **Live Application:**
 
-https://medicine-reminder-os3kjgp7k-yasha-stack1.vercel.app/
+https://medicine-reminder-ai.onrender.com/
 
 ---
 
