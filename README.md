@@ -18,7 +18,7 @@ https://medicine-reminder-os3kjgp7k-yasha-stack1.vercel.app/
 
 # 📂 GitHub Repository
 
-https://github.com/yasha-stack/medicine-reminder-ai
+https://github.com/yasha-stack/medicine-reminder-ai.git
 
 ---
 
